@@ -5,3 +5,9 @@ joblib
 plotly
 matplotlib
 seaborn
+google-generativeai
+scikit-learn
+scipy
+openai
+transformers
+langchain
