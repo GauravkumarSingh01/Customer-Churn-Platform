@@ -11,3 +11,6 @@ scipy
 openai
 transformers
 langchain
+xgboost
+openpyxl
+python-dateutil
